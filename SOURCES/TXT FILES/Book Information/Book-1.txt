@@ -1,0 +1,7 @@
+1
+820.0
+C++
+Others
+E:\\CODES\\JAVA\\Book_Images\\C++.jpg
+Bjarne Stroustrup
+20

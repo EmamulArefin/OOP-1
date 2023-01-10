@@ -1,0 +1,6 @@
+id
+price
+Book_Name
+Category
+image_Path
+Writer Name
